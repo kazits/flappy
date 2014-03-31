@@ -1,8 +1,8 @@
-#HTML5 flappy bird
+#FlappyHTML5 
 
-play here: http://hyspace.io/flappy/
+BaseCode for FlappyBird.io
 
-based on http://uralozden.com/flappy/
+play here: http://flappybird.io/flappy/
 
 ##License
 
